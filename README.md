@@ -1,6 +1,6 @@
 I’m Felix, a Machine Learning Engineer based in the UK
 
-I’m looking to collaborate on any project relating to Computer Vision
+I’m looking to collaborate on any project relating to Computer Vision or Deep Learning in a general sense
  
 Reach me on: peretz.fe@gmail.com
 
