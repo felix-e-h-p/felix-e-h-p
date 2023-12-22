@@ -1,6 +1,6 @@
 ## Introduction
 
-Greetings! I am Felix, a Machine Learning Engineer based in the United Kingdom. My professional focus lies at the intersection of machine learning, specifically in the domains of Computer Vision and Nuclear Physics.
+Greetings! I'm Felix, a Machine Learning Engineer based in the UK. My professional focus lies at the intersection of machine learning, specifically in the domains of Computer Vision and Nuclear Physics.
 
 ### Collaboration
 
@@ -12,7 +12,7 @@ For any inquiries or collaboration proposals, please feel free to reach out to m
 
 ### Professional Networking
 
-Connect with me on professional platforms:
+Connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/felix-e-h-p-a8b218ab/)
 
