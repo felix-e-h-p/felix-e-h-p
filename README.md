@@ -12,9 +12,7 @@ For any inquiries or collaboration proposals, please feel free to reach out to m
 
 ### Professional Networking
 
-Connect with me on:
-
-- [LinkedIn](https://www.linkedin.com/in/felix-e-h-p-a8b218ab/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/felix-e-h-p-a8b218ab/).
 
 <!---
 felix-e-h-p/felix-e-h-p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
