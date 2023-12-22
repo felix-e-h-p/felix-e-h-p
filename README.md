@@ -10,18 +10,11 @@ I welcome opportunities for collaboration and engagement with individuals who sh
 
 For any inquiries or collaboration proposals, please feel free to reach out to me via email at [peretz.fe@gmail.com](mailto:peretz.fe@gmail.com).
 
-### Noteworthy Projects
-
-- [Repository 1](link_to_repo_1)
-- [Repository 2](link_to_repo_2)
-
 ### Professional Networking
 
 Connect with me on professional platforms:
 
-- [LinkedIn](https://www.linkedin.com/in/your_linkedin_profile)
-- [Twitter](https://twitter.com/your_twitter_handle)
-- [Portfolio](https://yourportfolio.com)
+- [LinkedIn]([https://www.linkedin.com/in/your_linkedin_profile](https://www.linkedin.com/in/felix-e-h-p-a8b218ab/))
 
 <!---
 felix-e-h-p/felix-e-h-p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
