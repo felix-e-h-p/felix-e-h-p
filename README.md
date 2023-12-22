@@ -14,7 +14,7 @@ For any inquiries or collaboration proposals, please feel free to reach out to m
 
 Connect with me on professional platforms:
 
-- [LinkedIn]([https://www.linkedin.com/in/your_linkedin_profile](https://www.linkedin.com/in/felix-e-h-p-a8b218ab/))
+- [LinkedIn](https://www.linkedin.com/in/your_linkedin_profile](https://www.linkedin.com/in/felix-e-h-p-a8b218ab/)
 
 <!---
 felix-e-h-p/felix-e-h-p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
